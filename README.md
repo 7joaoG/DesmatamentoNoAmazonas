@@ -1,5 +1,7 @@
 # Desmatamento No Amazonas
-O trabalho desenvolvido propõe delimitar uma área de desmtamento acima da média no estado do Amazonas. Essa proposta abre espaço para estudo de significancia da correlação entre atividades socioeconomicas comuns nas regiões onde o desflorestamento raso mais ocorre no Amazonas. Afinal apesar da amostra analisada ser ter dados de 2000 até 2018, há diversas variáveis como a delimitação de Zonas Ecológicas Econômicas que se estendem no estado até o ano de 2023.
+O trabalho desenvolvido propõe delimitar uma área de desmatamento acima da média no estado do Amazonas. Essa proposta abre espaço para o estudo da significância da correlação entre atividades socioeconômicas comuns nas regiões onde o desflorestamento raso mais ocorre no Amazonas. Afinal, apesar da amostra analisada ter dados de 2000 até 2018, há diversas variáveis como a delimitação de Zonas Ecológicas Econômicas que se estendem no estado até o ano de 2023.
+
+
 
 ## Artigo:
 -[Clique aqui para ler](Readme/PDF/Delimitação_de_Desmatamento_Acima_da_Média_no_Amazonas_Com_Cliques_em_Grafos.pdf)
@@ -64,7 +66,7 @@ Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematico
 
  <!-- 3. Identificação de Cliques?
 
-        Observando cliques verifique se eles possuem características semelhantes sobre desmatamento ou sobre urbanização, ou sobre demais métricas.
+        Observando cliques, é verificado se eles possuem características semelhantes sobre desmatamento ou sobre urbanização ou sobre demais métricas.
 
 
  -->
